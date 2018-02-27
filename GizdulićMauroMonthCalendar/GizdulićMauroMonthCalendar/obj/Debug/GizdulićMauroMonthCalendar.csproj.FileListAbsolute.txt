@@ -1,0 +1,9 @@
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\bin\Debug\GizdulićMauroMonthCalendar.exe.config
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\bin\Debug\GizdulićMauroMonthCalendar.exe
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\bin\Debug\GizdulićMauroMonthCalendar.pdb
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.csprojResolveAssemblyReference.cache
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.Form1.resources
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.Properties.Resources.resources
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.csproj.GenerateResource.Cache
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.exe
+c:\users\elektro.ir_r04.000\documents\visual studio 2017\Projects\GizdulićMauroMonthCalendar\GizdulićMauroMonthCalendar\obj\Debug\GizdulićMauroMonthCalendar.pdb
